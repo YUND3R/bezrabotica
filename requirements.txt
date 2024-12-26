@@ -1,0 +1,7 @@
+tensorflow
+huggingface_hub
+datasets
+numpy
+gradio
+scikit-learn
+pandas
